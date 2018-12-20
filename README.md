@@ -26,5 +26,3 @@ Kindly follow the information given
 note: to view the apache server on other device connected in same network.Then use the ip address of the mobile followed by /index.html
 eg:
 192.168.0.100:8080/index.html
-
-
