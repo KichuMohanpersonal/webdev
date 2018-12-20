@@ -17,11 +17,11 @@ Kindly follow the information given
 
 7)hola! you will get 200 OK response
 
-8)If you want to host your website then navigate to the HTML folder and replace the index.html with your html file.Rename your html to index.html 
+8)If you want to host your website then navigate to the HTML folder and replace the index.html with your html file.Rename your html to index.html then go back.
 
 9)type "chmod 777 move.sh"
 
-10)type "./install.sh"
+10)type "./run.sh"
 
 note: to view the apache server on other device connected in same network.Then use the ip address of the mobile followed by /index.html
 eg:
