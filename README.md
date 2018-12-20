@@ -3,7 +3,7 @@ This section will help you in creating apache 2 webserver from you android devic
 
 Kindly follow the information given 
 
-1)Install termux from the above folder.If termux,git,apache2 is already installed you can skip to step
+1)Install termux from the above folder.
 
 2)Open termux
 
@@ -22,4 +22,9 @@ Kindly follow the information given
 9)type "chmod 777 move.sh"
 
 10)type "./install.sh"
+
+note: to view the apache server on other device connected in same network.Then use the ip address of the mobile followed by /index.html
+eg:
+192.168.0.100:8080/index.html
+
 
