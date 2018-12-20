@@ -1,0 +1,10 @@
+ Termux V 0.65 -  
+This version only works with Android version 5.0 or newer
+
+Permissions Req:
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL-STORAGE
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+android.permission.READ_EXTERNAL_STORAGE
+
