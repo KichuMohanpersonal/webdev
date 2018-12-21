@@ -21,5 +21,5 @@ Kindly follow the information given
 
 9)type "chmod 777 move.sh"
 
-10)type "./install.sh"
+10)type "./run.sh"
 
